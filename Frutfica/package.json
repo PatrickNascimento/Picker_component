@@ -1,0 +1,19 @@
+{
+  "name": "plant-app",
+  "version": "0.0.0",
+  "description": "react-ui-kit/dribbble2react @ Apr 6, 2019",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "expo": "^42.0.0",
+    "native-base": "^2.12.1",
+    "react": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-render-html": "^4.1.2",
+    "react-native-slider": "^0.11.0",
+    "react-native-star-rating": "^1.1.0",
+    "react-navigation": "^3.9.1"
+  }
+}
